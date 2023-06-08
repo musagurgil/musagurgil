@@ -1,62 +1,31 @@
-<h1 align="left"># Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋</h1>
+# 💫 About Me:
+# Merhaba, GitHub Profilime Hoş Geldiniz! 👋<br><br>Benim adım Musa, yeni bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Sürekli olarak yeni şeyler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.<br><br>## 💻 Teknolojiler ve Araçlar<br><br>Aşağıda, çalışmalarımda sıklıkla kullandığım bazı teknolojiler ve araçlar bulunmaktadır:<br><br>- Programlama Dilleri: Python, JavaScript<br>- Web Geliştirme: HTML, CSS, JavaScript, React<br>- Veritabanları: MySQL, MongoDB<br>- Araçlar ve Ortamlar: Git, Visual Studio Code, Docker<br><br>Bu liste, yalnızca bazı örneklerdir ve sürekli olarak yeni teknolojileri öğrenmek ve uygulamak için çabalıyorum.<br><br>## 📫 İletişim<br><br>Benimle iletişim kurmak veya projelerimle ilgili herhangi bir soru sormak isterseniz, aşağıdaki iletişim yöntemlerini kullanabilirsiniz:<br><br>- E-posta: musagurgil@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/musagurgil/<br><br>Sosyal medyada da etkileşimde bulunmayı severim, bu yüzden aşağıdaki hesaplarımı takip etmekten çekinmeyin:<br><br>- Twitter: [@acemidahi] https://twitter.com/acemidahi<br>- Instagram: [@gurgilmusa] https://www.instagram.com/gurgilmusa/<br><br>## 🌱 Sürekli Öğrenme<br><br>Teknolojideki sürekli değişim göz önüne alındığında, kendimi geliştirmeye ve yeni beceriler edinmeye devam etmek benim için önemlidir. Şu anda üzerinde çalıştığım veya öğrenmeye odaklandığım bazı konular şunlardır:<br><br>- Yapay Zeka ve Makine Öğrenmesi<br>- Veri Analizi ve Veri Bilimi<br>- Bulut Bilişim ve DevOps<br><br>Yeni projelerde çalışırken ve yeni beceriler edinirken, GitHub profilimi güncellemeye devam edeceğim. Takip etmek veya projelerime göz atmak isterseniz, profilimi ziyaret etmekten çekinmeyin.<br><br>Teşekkür ederim ve GitHub profilime göz attığınız için minnettarım. İyi günler! 😊
 
-###
 
-<p align="left">Benim adım Musa, yeni bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Sürekli olarak yeni şeyler öğrenmeye ve kendimi ageliştirmeye odaklanıyorum.</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurgilmusa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musagurgil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@musagurgil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21328123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/acemidahi) 
 
-###
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=flat&logo=unreal-engine&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=musagurgil&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=musagurgil&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musagurgil&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=musagurgil&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<img src="https://raw.githubusercontent.com/musagurgil/musagurgil/output/snake.svg" alt="Snake animation" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=musagurgil&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=musagurgil&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="left">## 💻 Teknolojiler ve Araçlar<br><br>Aşağıda, çalışmalarımda sıklıkla kullandığım bazı teknolojiler ve araçlar bulunmaktadır:<br><br>- Programlama Dilleri: Python, JavaScript, C#<br>- Web Geliştirme: HTML, CSS, JavaScript, React<br>- Veritabanları: MySQL, MongoDB<br>- Araçlar ve Ortamlar: Git, Visual Studio Code, Docker<br><br>Bu liste, yalnızca bazı örneklerdir ve sürekli olarak yeni teknolojileri öğrenmek ve uygulamak için çabalıyorum.<br><br>## 📫 İletişim<br><br>Benimle iletişim kurmak veya projelerimle ilgili herhangi bir soru sormak isterseniz, aşağıdaki iletişim yöntemlerini kullanabilirsiniz:<br><br>- E-posta: musagurgil@gmail.com<br>- LinkedIn: musagurgil<br><br>Sosyal medyada da etkileşimde bulunmayı severim, bu yüzden aşağıdaki hesaplarımı takip etmekten çekinmeyin:<br><br>- Twitter: [@acemidahi]<br>- Instagram: [@gurgilmusa]<br><br>## 🌱 Sürekli Öğrenme<br><br>Teknolojideki sürekli değişim göz önüne alındığında, kendimi geliştirmeye ve yeni beceriler edinmeye devam etmek benim için önemlidir. Şu anda üzerinde çalıştığım veya öğrenmeye odaklandığım bazı konular şunlardır:<br><br>- Yapay Zeka ve Makine Öğrenmesi<br>- Veri Analizi ve Veri Bilimi<br>- Bulut Bilişim ve DevOps<br><br>Yeni projelerde çalışırken ve yeni beceriler edinirken, GitHub profilimi güncellemeye devam edeceğim. Takip etmek veya projelerime göz atmak isterseniz, profilimi ziyaret etmekten çekinmeyin.<br><br>Teşekkür ederim ve GitHub profilime göz attığınız için minnettarım. İyi günler! 😊</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/musagurgil) 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musagurgil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musagurgil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/musagurgil/count.svg?"  />
-</div>
-
-###
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
