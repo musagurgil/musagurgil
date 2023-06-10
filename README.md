@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Benim adım Musa, yeni bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Sürekli olarak yeni şeyler öğrenmeye ve kendimi ageliştirmeye odaklanıyorum.</p>
+<p align="left">Benim adım Musa, yeni bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Sürekli olarak yeni şeyler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.</p>
 
 ###
 
