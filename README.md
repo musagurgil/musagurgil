@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="left"># Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋</h1>
+<h1 align="left"># Merhaba, GitHub Profilime Hoş Geldiniz! 👋</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Benim adım Musa, yeni bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Sürekli olarak yeni şeyler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.</p>
+<p align="left">Benim adım Musa, yeni bir yazılım geliştiricisiyim ve burada projelerimi paylaşıyorum. Sürekli olarak yeni şeyler öğrenmeye ve kendimi geliştirmeye odaklanıyorum.</p>
 
 ###
 
